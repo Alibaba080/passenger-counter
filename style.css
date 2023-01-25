@@ -1,0 +1,38 @@
+body {
+  background-image: url("kanye_interview.jpg");
+  color: rgb(76, 144, 121);
+  height: 100vh;
+  width: 50vh;
+}
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: x-large;
+}
+button {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-weight: bold;
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  border: 2px black;
+}
+
+#increment-btn {
+  background: darkred;
+}
+
+#save-btn {
+  background: darkgreen;
+}
+.container {
+    background: white;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
